@@ -1,5 +1,5 @@
 # flask-crud-api
-Simple flask api to create, get, update and delete users. Uses SQLite.
+Simple flask api to create, get, update and delete Dates. Uses SQLite.
 ## Installation
 #### Clone the project.
 ```
